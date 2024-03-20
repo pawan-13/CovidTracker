@@ -1,0 +1,194 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+body{
+    background: #000000e8!important;
+}
+
+.CovidApp .CovidHead h1 {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.8rem;
+    color: #ffffff;
+}
+
+.CovidApp .CovidHead h2 {
+    text-align: center;
+    margin-top: 1.5rem;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.CovidApp .boxCard {
+    background-color: #4481efc7;
+    padding: 1.2rem;
+    height: 10rem;
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 3px #ffffff;
+}
+
+.CovidApp .boxCard:hover{
+    transform: scale(1.05);
+    transition: all .5s ease-in-out;
+}
+
+.CovidApp .boxCard h5 {
+    font-size: 1.3rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.CovidApp .boxCard span {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
+.CovidApp .boxCard h4 {
+    font-size: 2.9rem;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 3px 0px 0px skyblue;
+}
+
+.CovidApp .box1Card {
+    background-color: #0f9324b5;
+    padding: 1.2rem;
+    height: 10rem;
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 3px #ffffff;
+}
+
+.CovidApp .box1Card:hover{
+    transform: scale(1.05);
+    transition: all .5s ease-in-out;
+}
+
+.CovidApp .box1Card h5 {
+    font-size: 1.3rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.CovidApp .box1Card span {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
+.CovidApp .box1Card h4 {
+    font-size: 2.9rem;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 3px 0px 0px skyblue;
+}
+
+.CovidApp .box2Card {
+    background-color: #dbae2feb;
+    padding: 1.2rem;
+    height: 10rem;
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 3px #ffffff;
+}
+
+.CovidApp .box2Card:hover{
+    transform: scale(1.05);
+    transition: all .5s ease-in-out;
+}
+
+.CovidApp .box2Card h5 {
+    font-size: 1.3rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.CovidApp .box2Card span {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
+.CovidApp .box2Card h4 {
+    font-size: 2.9rem;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 3px 0px 0px skyblue;
+}
+
+.CovidApp .box3Card {
+    background-color: #a32916e6;
+    padding: 1.2rem;
+    height: 10rem;
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 3px #ffffff;
+}
+
+.CovidApp .box3Card:hover{
+    transform: scale(1.05);
+    transition: all .5s ease-in-out;
+}
+
+.CovidApp .box3Card h5 {
+    font-size: 1.3rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.CovidApp .box3Card span {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
+.CovidApp .box3Card h4 {
+    font-size: 2.9rem;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 3px 0px 0px skyblue;
+}
+.CovidApp .box4Card {
+    background-color: #ff6a00f2;
+    padding: 1.2rem;
+    height: 10rem;
+    border-radius: 6px;
+    box-shadow: 0px 0px 0px 3px #ffffff;
+}
+
+.CovidApp .box4Card:hover{
+    transform: scale(1.05);
+    transition: all .5s ease-in-out;
+}
+
+.CovidApp .box4Card h5 {
+    font-size: 1.3rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.CovidApp .box4Card span {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
+.CovidApp .box4Card h4 {
+    font-size: 2.9rem;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 3px 0px 0px skyblue;
+    line-height: 50px;
+}
